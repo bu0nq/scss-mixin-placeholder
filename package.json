@@ -1,33 +1,38 @@
 {
-  "name": "@bu0nq/style.scss.mixin.media-breakpoint",
+  "name": "@bu0nq/scss-mixin-placeholder",
   "version": "0.1.0",
-  "description": "Package for integrating Style.SCSS.Mixin.MediaBreakpoint",
-  "main": "media-breakpoint.scss",
+  "description": "A package for integrating a mixin for styling input field placeholders.",
+  "keywords": [
+    "scss",
+    "style",
+    "frontend",
+    "mixin",
+    "mixins",
+    "placeholder"
+  ],
+  "main": "index.scss",
+  "exports": {
+    ".": {
+      "sass": "./index.scss",
+      "default": "./index.scss"
+    }
+  },
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@bu0nq/style.scss.function.rem": "^0.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bu0nq/style.scss.mixin.media-breakpoint.git"
-  },
-  "keywords": [
-    "style",
-    "scss",
-    "mixin",
-    "media-breakpoint"
-  ],
   "author": {
     "name": "bu0nq",
     "email": "hello@bu0nq.ru"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bu0nq/style.scss.mixin.media-breakpoint/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/scss-mixin-placeholder.git"
   },
-  "homepage": "https://github.com/bu0nq/style.scss.mixin.media-breakpoint#readme",
+  "bugs": {
+    "url": "https://github.com/bu0nq/scss-mixin-placeholder/issues"
+  },
+  "homepage": "https://github.com/bu0nq/scss-mixin-placeholder#readme",
   "publishConfig": {
     "access": "public"
   }
