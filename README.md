@@ -1,16 +1,18 @@
-# Style.SCSS.Mixin.MediaBreakpoint
+# SCSS Mixin Placeholder
 
-Package for integrating `Style.SCSS.Mixin.MediaBreakpoint` in a web environment.
+A package for integrating a mixin for styling input field placeholders.
 
-![npm](https://img.shields.io/npm/v/@bu0nq/style.scss.mixin.media-breakpoint?style=for-the-badge)
-![npm](https://img.shields.io/npm/dm/@bu0nq/style.scss.mixin.media-breakpoint?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@bu0nq/style.scss.mixin.media-breakpoint?style=for-the-badge)
+![npm](https://img.shields.io/npm/v/@bu0nq/scss-mixin-placeholder?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/@bu0nq/scss-mixin-placeholder?style=for-the-badge)
+
+Documentation: [EN](README.md) | [RU](README.RU.md)
+
 ___
 
 ## Installation
 
-This package can be deployed automatically using NPM:
+You can install the package automatically using NPM:
 
 ```
-npm i @bu0nq/style.scss.mixin.media-breakpoint
+npm i @bu0nq/scss-mixin-placeholder
 ```
